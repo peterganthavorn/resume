@@ -1,11 +1,9 @@
 # Peter Ganthavorn
 
-### Senior Dev-Ops Professional
-```
-San Francisco, CA
-pganthavorn@gmail.com
-415-319-3358
-```
+#### Senior Dev-Ops Professional
+######San Francisco, CA
+######pganthavorn@gmail.com
+######415-319-3358
 
 Authorized to work in the US for any employer
 
