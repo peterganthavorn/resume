@@ -1,6 +1,18 @@
 # Peter Ganthavorn
 
 ## Work Experience
+### Sr. DevOps Engineer
+Weather Underground - San Francisco, CA
+February 2017 - Present
+
+
+- Support AWS-based production infrastructure and services for Weather Underground (www.wunderground.com) 
+- Wrote Jenkins jobs to monitor resources and provides a 'self-healing' environment.
+- Wrote Jenkins pipeline for ease of production deployment to developers.
+- Through substantial use of automation, devops staff reduced from 3 to 1.
+- Monitor data on website to ensure information obtained from providers are accurate and up-to-date.
+
+### Sr. Systems Engineer
 
 ## Education
 ### MS in Computer Science
