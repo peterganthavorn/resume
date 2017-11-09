@@ -7,6 +7,8 @@
 ## Skills
 
 ## Certifications
+### Puppet Professional
+April 2015 to Present
 
 ## Additional Information
 
