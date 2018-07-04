@@ -1,4 +1,4 @@
-# Peter Ganthavorn
+# PETER GANTHAVORN
 
 #### Senior Dev-Ops Professional
 
