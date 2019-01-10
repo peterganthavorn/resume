@@ -19,7 +19,7 @@ Experience
 * Create NewRelic alerts and dashboards to monitor prod/qa/dev environment.
 * Automate tasks using Puppet and Ansible.
 * Write Jenkins jobs to build packages and deploy code to production.
-* Monitor secuity vulnerabilities and provide solutions to keep environment safe.
+* Monitor security vulnerabilities and provide solutions to keep environment safe.
 
 
 **Sr. DevOps Engineer**
@@ -41,7 +41,6 @@ Experience
 * Planned and built disaster recovery site for Verizon.
 * Worked with external audito and conducted PCI-DSS audit for the environment.
 
-\pagebreak
 
 Education
 ---------
