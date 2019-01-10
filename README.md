@@ -78,4 +78,4 @@ Others
 
 ----
 
-> <pganthavorn@gmail.com> • (415)319-3358 •  San Francisco, California
+> <pganthavorn@gmail.com> • San Francisco, California
