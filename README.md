@@ -1,67 +1,81 @@
-# PETER GANTHAVORN
+Peter Ganthavorn
+================
 
-#### Senior Dev-Ops Professional
+----
 
-- San Francisco, CA
-- pganthavorn@gmail.com
+>  Seasoned IT professional with extensive background in 
+>  system engineering, administration, and devops both 
+>  in the cloud and onprem.
 
-Authorized to work in the US for any employer
+----
 
-## Work Experience
-### Sr. DevOps Engineer
-IBM/Weather Underground - San Francisco, CA
-February 2017 - Present
+Experience
+----------
 
-- Support AWS-based production infrastructure and services for Weather Underground (www.wunderground.com) .
-- Use NewRelic to monitor application and infrastructure using alerts and dashboards.
-- Automate configuration changes using Puppet and Ansible.
-- Wrote Jenkins job for production code deployment.
-- Keep servers updated and secure.
+**Sr. DevOps Engineer**
+*IBM - San Francisco, CA - February 2017 - Present*
 
-### Sr. DevOps Engineer
-The Weather Company/Weather Underground - San Francisco, CA
-July 2015 to January 2017
-
-- Supported production site for www.wunderground.com.
-- Maintained data center (servers and storage) used for hosting the site, both web and mobile applications. 
-- Migrated site from physical data center to AWS (100%) with minimal interruption.
-- Decommissioned servers and moved out of hosting facility.
-
-### Sr. Systems Engineer
-Verizon Business Network Services Inc - San Francisco, CA
-October 2000 to March 2015
-
-- Built and maintained sites for clients.
-- Designed site, specified servers/storage, and procured from re-sellers.
-- Maintained internal IT infrastructure (50% physical-50% under VMware) used for monitoring and support clients.
-- Planned and built DR site for internal Verizon.
-- Conducted PCI-DSS certification for internal Verizon IT group.
+* Support AWS-based production environment for [Weather Underground](http://www.wunderground.com). 
+* Create NewRelic alerts and dashboards to monitor prod/qa/dev environment.
+* Automate tasks using Puppet and Ansible.
+* Write Jenkins jobs to build packages and deploy code to production.
+* Monitor secuity vulnerabilities and provide solutions to keep environment safe.
 
 
-## Education
-### MS in Computer Science
-UCLA - Los Angeles, CA
+**Sr. DevOps Engineer**
+*The Weather Company/Weather Underground - San Francisco, CA - July 2015 to January 2017*
 
-### BS in Electrical Engineer and Comp Science
-UC Berkeley - Berkeley, CA
+* Supported production environment for [Weather Underground](http://www.wunderground.com) running in physical datacenter. 
+* Migrated site from onprem to the cloud (AWS).
+* Decommissioned equipments and moved out of hosting facility.
+* Supported all issues and escalated to developers/owners as necessary.
+* Monitored systems using CheckMK and internally written scripts.
 
-## Skills
-Docker (1 year), Openshift (Less than 1 year), Kubernetes (Less than 1 year), Puppet (3 years), AWS cloud (EC2, S3, EFS, ASG, ELB, Cloudformation, AMI, IAM) (3 years), Linux (10+ years), Shell Scripting (10+ years), RHEL (10+ years), Centos (3 years), Ubuntu (3 years), Terraform (2 years), Jenkins (1 year), MySQL (3 years), Git/Github (3 years), Apache (10+ years), Vmware (5 years), Cyberark (5 years), Chef (Less than 1 year), Ansible (Less than 1 year), NewRelic (1 year).
 
+**Sr. Systems Engineer**
+*Verizon Business Network Services - San Francisco, CA - October 2000 to March 2015*
 
-## Certifications
-### Puppet Professional
-April 2015 to Present
+* Built and maintained e-commerce sites for clients.
+* Worked with architects to design sites, provided specs for severs and storage. Procured from re-sellers.
+* Maintained internal IT infrastructure (50% physical and 50% virtualized with VMWARE)
+* Planned and built disaster recovery site for Verizon.
+* Worked with external audito and conducted PCI-DSS audit for the environment.
 
-## Additional Information
+\pagebreak
 
-Tools used:
- - ELK
- - CheckMK
- - Vagrant
- - NS1
- - Akamai
- - Okta
- - JFrog Artifactory
- - PCI Certification
- - Slack
+Education
+---------
+
+**MS, Computer Science** - UCLA (Los Angeles, California)
+
+**BSc, Electrical Engineering and Computer Science** - UC Berkeley 
+
+Skills
+------
+
+* Software
+
+     * Linux, Centos, Ubunbu, RedHat, Solaris
+     * AWS (EC2, S3, EFS, ASG, ELB, AMI, IAM, Cloudformation)
+     * Jenkins, Terraform, NewRelic, Ansible, Puppet
+     * Git/Github
+     * Apache, MySQL
+     * Docker, Kubernetes
+     * Bash Shell scripting
+     * DNS, Akamai, NS1, Slack, Okta, Vagrant, Checkmk, sendmail
+     * VMWARE, Cyberark
+
+* Hardware
+
+     * Server and storage managment in datacenter
+     * SUN, HP, EMC, Brocade, Netapp, Datadomain, Netscaler
+     * TCP/IP
+
+Others
+------
+
+* Authorized to work in the US for any employer
+
+----
+
+> <pganthavorn@gmail.com> • (415)319-3358 •  San Francisco, California
